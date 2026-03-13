@@ -10,6 +10,7 @@ I am passionate about technology and programming, with a keen interest in severa
 - ![Bash](https://img.shields.io/badge/-Bash%20%2F%20CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white) **Bash / CLI**: Comfortable using the command line for development workflows.
 - ![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white) **AI**: Exploring AI tools and models, curious about how intelligent systems work.
 - ![Blockchain](https://img.shields.io/badge/-Blockchain%20%26%20Crypto-121D33?style=flat-square&logo=bitcoin&logoColor=white) **Blockchain**: Interested in understanding decentralized technologies.
+- ![Game Dev](https://img.shields.io/badge/-Game%20Development-000000?style=flat-square&logo=unity&logoColor=white) **Game Development**: Curious about game mechanics, graphics, and interactive systems.
 
 
 ## Connect with Me
