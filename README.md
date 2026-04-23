@@ -14,6 +14,5 @@ I am passionate about technology and programming, with a keen interest in severa
 
 
 ## Connect with Me
-[![X](https://img.shields.io/badge/X-syntaxraw-black?style=flat-square)](https://x.com/syntaxraw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal%20Jain-blue?style=flat-square)](https://www.linkedin.com/in/ujjwal-jain-755a9526b/)
-
+[![X](https://img.shields.io/badge/X-syntaxraw-black?style=flat-square)](https://x.com/syntaxraw) 
 
